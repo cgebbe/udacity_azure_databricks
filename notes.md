@@ -212,4 +212,9 @@ Star schema
 
 Existing solutions from other students
 
+- https://github.com/quyetnn1102/udacity-project3-azuredatalake
+- https://github.com/infer742/data-lake-divvy
+- https://github.com/Fozan-Talat/divvy-bikeshare-de-project
+  - part of google data analytics capstone project
+- https://github.com/AndrewLuyt/divvy-bikeshare/tree/master
 -
